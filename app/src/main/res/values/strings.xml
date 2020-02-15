@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sasha Antipov</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, My name is Alexandr,
+        \n\n Im trying to learn Android Development, and
+        \n\n create my own application for android and maybe for IOS
+
+
+
+    </string>
+    <string name="what_is_you_nickname">Whar is your niclname</string>
+    <string name="done">Done</string>
+</resources>
